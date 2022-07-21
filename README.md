@@ -7,7 +7,7 @@
 ![](https://img.shields.io/github/license/eoscostarica/wax-full-stack-boilerplate) 
 ![](https://img.shields.io/badge/code%20style-standard-brightgreen.svg) 
 ![](https://img.shields.io/badge/%E2%9C%93-collaborative_etiquette-brightgreen.svg) 
-![](https://img.shields.io/twitter/follow/eoscostarica.svg?style=social&logo=twitter) 
+[![](https://img.shields.io/twitter/follow/eoscostarica.svg?style=social&logo=twitter)](https://twitter.com/EdeniaWeb3)
 ![](https://img.shields.io/github/forks/eoscostarica/wax-full-stack-boilerplate?style=social)
 
 </div>
@@ -55,7 +55,7 @@ cp .env.example .env
 
 ## Quick Start
 
-1.  Clone this repo using `git clone --depth=1 https://github.com/eoscostarica/wax-webapp-boilerplate.git <YOUR_PROJECT_NAME>`.
+1.  Clone this repo using `git clone --depth=1 https://github.com/edenia/wax-webapp-boilerplate.git <YOUR_PROJECT_NAME>`.
 2.  Move to the appropriate directory: `cd <YOUR_PROJECT_NAME>`.
 3.  Run `yarn start` in order to start the project.
 
@@ -123,7 +123,7 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 	</a>
 
 [![Twitter](https://img.shields.io/twitter/follow/EdeniaWeb3?style=for-the-badge)](https://twitter.com/EdeniaWeb3)
-![Discord](https://img.shields.io/discord/946500573677625344?color=black&label=discord&logo=discord&logoColor=white&style=for-the-badge)
+[![Discord](https://img.shields.io/discord/946500573677625344?color=black&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/YeGcF6QwhP)
 
 </div>
 
